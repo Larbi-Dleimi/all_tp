@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ff6a69f-d62b-4b65-93ee-6abe5b9c7864" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TPs Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccesHorsPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/p3/TestStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/heritage/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/heritage/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/heritage/Professeur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/heritage/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/AccesSamePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Laboratoire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Rappel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Salle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/SalleCours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/TestHeritage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/reflection/TestReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/reflection/rappel/ConnectionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/reflection/rappel/TestReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/reflection/rappel/param.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/statickeyword/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp4/singleton/Terre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp4/singleton/TestSingleton.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HUUDH0ga1ZNqNQTutP6ye9y24T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Rappel1">
+    <configuration name="Rappel1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.education.tp1.introduction.Rappel1" />
+      <module name="TPs Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.education.tp1.introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.education.tp2.reflection.TestReflection" />
+      <module name="TPs Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.education.tp2.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.education.tp4.singleton.TestSingleton" />
+      <module name="TPs Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.education.tp4.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.education.p3.TestStatic" />
+      <module name="TPs Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.education.p3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ma.education.tp2.reflection.rappel.TestReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.education.tp2.reflection.rappel.TestReflection" />
+      <module name="TPs Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.education.tp2.reflection.rappel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Rappel1" />
+        <item itemvalue="Application.ma.education.tp2.reflection.rappel.TestReflection" />
+        <item itemvalue="Application.TestReflection" />
+        <item itemvalue="Application.TestSingleton" />
+        <item itemvalue="Application.TestStatic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ff6a69f-d62b-4b65-93ee-6abe5b9c7864" name="Changes" comment="" />
+      <created>1668339035790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668339035790</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
