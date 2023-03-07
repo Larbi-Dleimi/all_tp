@@ -2,6 +2,7 @@ package ma.education.tp1.introduction;
 
 import javax.management.modelmbean.InvalidTargetObjectTypeException;
 import java.awt.event.WindowStateListener;
+import java.security.PublicKey;
 
 public class Salle {
 
@@ -20,6 +21,18 @@ public class Salle {
     public Salle(long id,String nom){
         this.id = id;
         this.nom = nom;
+    }
+
+    protected int add(int... a){
+        int s=0;
+        /*for (int b=0;b<a.length;b++){
+            s += a[b];
+        }*/
+
+        for (int b : a){
+            s += b;
+        }
+        return s;
     }
 
     /*@Override

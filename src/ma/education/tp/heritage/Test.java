@@ -10,7 +10,6 @@ public class Test {
         Etudiant e2 = (Etudiant)p1;
         Professeur p5 = (Professeur)p2;
 
-
         /*
         *  les classes professeur et Etudiant sont deux classes filles de la classe Personne (superclass)
         *  alors nous ne pouvons pas instancier un objet de type classe fille (subclass) par le constructeur d'une autre classe fille.

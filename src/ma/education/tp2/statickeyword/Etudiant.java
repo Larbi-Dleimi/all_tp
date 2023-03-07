@@ -6,6 +6,13 @@ public class Etudiant {
     public String nom;
     public static int nbEtudiants;
 
+
+    static{
+        nbEtudiants += 10;
+
+        System.out.println(nbEtudiants);
+    }
+
     /* VI : Le mot réservé “static”
     *  a - Chaque étudiant possède son propre id
     *  b - Chaque étudiant possède son propre nom

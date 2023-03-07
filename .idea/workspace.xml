@@ -1,35 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ff6a69f-d62b-4b65-93ee-6abe5b9c7864" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TPs Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccesHorsPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/p3/TestStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/heritage/Etudiant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/heritage/Personne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/heritage/Professeur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/heritage/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/AccesSamePackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Laboratoire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Rappel1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Salle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/SalleCours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/TestHeritage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/reflection/TestReflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/reflection/rappel/ConnectionDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/reflection/rappel/TestReflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/reflection/rappel/param.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/statickeyword/Etudiant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp4/singleton/Terre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp4/singleton/TestSingleton.java" afterDir="false" />
+    <list default="true" id="8ff6a69f-d62b-4b65-93ee-6abe5b9c7864" name="Changes" comment="Initial version">
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/explambda/ICalcul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/explambda/TestExpLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpFactory/FactoryImplA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpFactory/FactoryImplB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpFactory/IAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpFactory/IAbstractPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpFactory/PluginImplA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpFactory/PluginImplB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpFactory/TestFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpabstract/Cercle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpabstract/FormeGeo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpabstract/FormeGeoA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpabstract/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpcollections/TestHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpcollections/TestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpcollections/Voiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpinterface/CalculImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpinterface/CalculImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpinterface/ICalcul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/cigma/tpinterface/TestIcalcul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/examABDTWJAVABASEV1/Citoyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/examABDTWV1/exercice1/Code5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/examABDTWV1/exercice2/Code1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/examABDTWV1/exercice2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/examBasicJava/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/examBasicJava/Foozin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/examBasicJava/Livre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/simulation3/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/simulation3/Reachable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/simulation3/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/simulation3/RequestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/simulation3/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/reponses/exams/simulation3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/FunctionalInterface/ILogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/FunctionalInterface/IOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/FunctionalInterface/ITestable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/FunctionalInterface/TestFunctionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstarctkeyword/FormeGeoTypeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstarctkeyword/FormeGeometrique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstarctkeyword/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstarctkeyword/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/annotations/Calculatrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/annotations/CalculatriceMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/annotations/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/annotations/TestReflectionAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/Carnivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/CompteBancaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/Herbivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/Humain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/Vegetal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp4/singleton/Connexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp5/collections/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp5/collections/Pc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp5/collections/Salle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp5/collections/TestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp5/collections/TestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp5/collections/codeComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp/heritage/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp/heritage/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Laboratoire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Laboratoire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Salle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Salle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp1/introduction/SalleCours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/SalleCours.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp1/introduction/TestHeritage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/TestHeritage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp2/statickeyword/Etudiant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp2/statickeyword/Etudiant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp4/singleton/TestSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp4/singleton/TestSingleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +85,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-19/lib/src.zip!/java.base/java/util/TreeSet.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,25 +108,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/larbi/Intellij IDEA/WRKSP_LPDF&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Rappel1">
-    <configuration name="Rappel1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ma.education.tp1.introduction.Rappel1" />
+}</component>
+  <component name="RunManager" selected="Application.TestStatic">
+    <configuration name="Chrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.education.reponses.exams.simulation3.Chrome" />
       <module name="TPs Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ma.education.tp1.introduction.*" />
+          <option name="PATTERN" value="ma.education.reponses.exams.simulation3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ma.education.tp2.reflection.TestReflection" />
+    <configuration name="RequestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.education.reponses.exams.simulation3.RequestMain" />
       <module name="TPs Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ma.education.tp2.reflection.*" />
+          <option name="PATTERN" value="ma.education.reponses.exams.simulation3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +151,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ma.education.tp4.singleton.TestSingleton" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.education.reponses.exams.simulation3.Test" />
       <module name="TPs Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ma.education.tp4.singleton.*" />
+          <option name="PATTERN" value="ma.education.reponses.exams.simulation3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.education.tp5.collections.TestSet" />
+      <module name="TPs Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.education.tp5.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,26 +190,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ma.education.tp2.reflection.rappel.TestReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ma.education.tp2.reflection.rappel.TestReflection" />
-      <module name="TPs Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ma.education.tp2.reflection.rappel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Rappel1" />
-        <item itemvalue="Application.ma.education.tp2.reflection.rappel.TestReflection" />
-        <item itemvalue="Application.TestReflection" />
-        <item itemvalue="Application.TestSingleton" />
         <item itemvalue="Application.TestStatic" />
+        <item itemvalue="Application.RequestMain" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestSet" />
+        <item itemvalue="Application.Chrome" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +209,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668339035790</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial version">
+      <created>1669502872571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669502872571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +229,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial version" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

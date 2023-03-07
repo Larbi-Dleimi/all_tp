@@ -8,3 +8,5 @@ public class Main {
         test.afficher(salle2);
     }
 }
+
+

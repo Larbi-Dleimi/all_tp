@@ -14,6 +14,8 @@ public class TestHeritage {
         SalleCours s7 = (SalleCours)s5;
         SalleCours s8 = s6;
 
+        Object o1 = new SalleCours();
+
 
     }
 }

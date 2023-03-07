@@ -10,11 +10,17 @@ public class TestSingleton {
         Terre t2 = Terre.getInstance(4000,5000);
 
         // Objet t1
-        System.out.print("la distance du soleil pour l'objet t1 : "+t1.distanceToSoleil);
-        System.out.print(" \nla surface pour l'objet t1 : "+t1.surface);
+        System.out.println("la distance du soleil pour l'objet t1 : "+t1.distanceToSoleil);
+        System.out.println("la surface pour l'objet t1 : "+t1.surface);
         // Objet t2
-        System.out.print(" \nla distance du soleil pour l'objet t2 : "+t2.distanceToSoleil);
-        System.out.print(" \nla surface pour l'objet t2 : "+t2.surface);
+        System.out.println("la distance du soleil pour l'objet t2 : "+t2.distanceToSoleil);
+        System.out.println("la surface pour l'objet t2 : "+t2.surface);
+
+        Connexion connexion = Connexion.getInstance("larbi","larbi1997");
+        Connexion connexion2 = Connexion.getInstance("Yassine","yassine2023");
+
+        System.out.println(connexion);
+        System.out.println(connexion2);
     }
 
     /*

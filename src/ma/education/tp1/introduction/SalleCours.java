@@ -4,10 +4,9 @@ public class SalleCours extends Salle {
 
     byte nbrPlace;
 
+    public SalleCours(){}
     public SalleCours(long id,String nom,byte nbrPlace){
         super(id,nom);
         this.nbrPlace = nbrPlace;
     }
-
-
 }

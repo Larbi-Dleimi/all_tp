@@ -1,6 +1,8 @@
 package ma.education.tp1.introduction;
 
-public class Laboratoire extends Salle {
+import java.util.Comparator;
+
+public class Laboratoire extends Salle implements Comparable {
 
     String type;
 
@@ -11,4 +13,16 @@ public class Laboratoire extends Salle {
 
     }
 
+
+    @Override
+    public int compareTo(Object o) {
+
+        if (!(o instanceof Laboratoire))
+            return -1;
+        else
+        {
+            Laboratoire laboratoire = (Laboratoire) o;
+            return this.type.compareToIgnoreCase(laboratoire.type);
+        }
+    }
 }
